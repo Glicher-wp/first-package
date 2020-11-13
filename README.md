@@ -1,2 +1,2 @@
 # first-package
-test-package whith siple arifmetics
+test-package whith simple arifmetics
